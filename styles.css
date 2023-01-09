@@ -91,3 +91,20 @@ code,
   background-color: rgba(0, 0, 0, 0.04);
   border-radius: 3px;
 }
+
+#preamble {
+  width: 60%;
+  margin: auto;
+  /* padding-right: 80px; */
+}
+
+#preamble img {
+  float: right;
+  width: 100px;
+  height: 100px;
+}
+
+#preamble h1 {
+  top: 18px;
+  left: 10px;
+}
